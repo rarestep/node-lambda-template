@@ -28,12 +28,17 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
 
+# Generated index.js
+# Comment out if NOT using CoffeeScript to generate the index.js
+ index.js
+
 # Users Environment Variables
 .lock-wscript
-
 
 .env
 deploy.env
 event.json
 event_sources.json
 .DS_Store
+npm-debug.log*
+.lambda
