@@ -30,7 +30,7 @@ node_modules
 
 # Generated index.js
 # Comment out if NOT using CoffeeScript to generate the index.js
- index.js
+index.js
 
 # Users Environment Variables
 .lock-wscript
