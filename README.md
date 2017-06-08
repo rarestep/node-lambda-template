@@ -1,14 +1,12 @@
 # node-lambda-template
 
-![node-lambda-template](../master/node-lambda-template.png?raw=true)
-
-The bare minimum for a node.js app running on [Amazon Lambda](http://aws.amazon.com/lambda/).
+The bare minimum for a node.js app running on [Amazon Lambda](http://aws.amazon.com/lambda/). Forked from [node-lambda-template](https://github.com/motdotla/node-lambda-template).
 
 It uses [node-lambda](https://github.com/motdotla/node-lambda) under the hood to locally run and also deploy your node.js Amazon Lambda application.
 
 ## Install
 
-Clone this repository.
+1. ~~Clone~~ Download this repository to your local machine:
 
 ```
 cd /to/your/template/path
