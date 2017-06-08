@@ -13,6 +13,7 @@ This custom template also includes Gulp tasks so you can write Lambda functions 
 ```
 cd /to/your/template/path
 npm install
+npm run setup # setup node-lambda files
 ```
 
 ## Usage
