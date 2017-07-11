@@ -8,3 +8,10 @@ exports.handler = (event, context, callback) ->
   callback(null, event)
   # or
   # callback( 'some error type' )
+  # or
+  # callback null,
+  #   {
+  #     body: "success",
+  #     statusCode: 200,
+  #     headers: {}
+  #   }
